@@ -1,4 +1,4 @@
-// src/components/AddNote.jsx
+
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { addNote } from "../slices/noteSlice";
